@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Alan Nakagawa</h2>
+###<h1> Hi there 👋</h1><h2> I'm Alan Nakagawa</h2>
 
 <img align='center' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
