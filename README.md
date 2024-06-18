@@ -41,12 +41,6 @@
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-
-
-
 
 
 <h3>🛠 To Learn</h3>
