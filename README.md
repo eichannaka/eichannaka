@@ -1,7 +1,7 @@
 ### Hi there 👋<h2> I'm Alan Nakagawa</h2>
 
 <h3>💻 About Me 💻</h3>
-- 🎓 &nbsp; Currently studying Full Stack Web Development and Programming Technique
+- 🎓 &nbsp; Currently studying Full Stack Web Development and Programming Technique </br>
 - 🎓 &nbsp; Study a career as a systems analyst.
 
 
