@@ -1,7 +1,5 @@
 ### Hi there 👋<h2> I'm Alan Nakagawa</h2>
 
-<img align='center' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
-
 <h3>💻 About Me 💻</h3>
 - 🎓 &nbsp; Currently studying Full Stack Web Development and Programming Technique and pursuing a career as a systems analyst.
 
