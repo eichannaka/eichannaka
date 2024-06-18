@@ -7,7 +7,7 @@
 ```javascript
 const AlanNakagawa = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, TyperScript, Java, PHP, SQL],
+  code: [HTML, CSS, Javascript, React.js, NodeJS,  Java, PHP, SQL],
   tools: [React, Android Studio]
 }
 ```
