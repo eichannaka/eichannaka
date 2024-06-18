@@ -3,23 +3,7 @@
 <img align='center' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 
 <h3>💻 About Me 💻</h3>
-
-```javascript
-const AlanNakagawa = {
-  pronouns: "he" | "him",
-  code: [HTML, CSS, Javascript, React.js, NodeJS,  Java, PHP, SQL],
-  tools: [React, Android Studio]
-}
-```
-
-
-- 🌱 &nbsp; Developer.
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
 - 🎓 &nbsp; Currently studying Full Stack Web Development and Programming Technique and pursuing a career as a systems analyst.
-
-
 
 
 <h3>🛠 Tech Stack</h3>
