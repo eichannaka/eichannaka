@@ -17,12 +17,14 @@
 <img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Sequelize" width="50px" src="https://raw.githubusercontent.com/github/explore/805cc46f4c9b91e5f6fa3519f9885ae436b140f6/topics/sequelize/sequelize.png" />
+<img align="left" alt="Spring Boot" width="50px" src="https://raw.githubusercontent.com/github/explore/9b5153fe6019e56adbc3429efac056d2b04cced5/topics/spring/spring.png" />
 
 <br/>
 <br/>
  
- <h4>💻 &nbsp; Frameworks, Platforms and Libraries</h4> 
- 
+<h4>💻 &nbsp; Frameworks, Platforms and Libraries</h4>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 [![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -30,10 +32,19 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <h4>🛠 Backend Skills</h4>
-- TypeScript, Node.js, Express.js, Java, Spring Boot, PHP, SQL, MongoDB, REST API, Sequelize (ORM)
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/8f5b83644b8a5997601b12c14e23de29b6f981ac/topics/php/php.png" />
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <h4>🛠 Frontend Skills</h4>
-- TypeScript, React.js, HTML, CSS, Bootstrap 5, SASS, AJAX, jQuery
+<img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Bootstrap 5" width="50px" src="https://raw.githubusercontent.com/github/explore/c3a05174d0ad1a0f824456b129202e634cbb8637/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="SASS" width="50px" src="https://raw.githubusercontent.com/github/explore/c3a05174d0ad1a0f824456b129202e634cbb8637/topics/sass/sass.png" />
+<img align="left" alt="AJAX" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ajax/ajax.png" />
+<img align="left" alt="jQuery" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
 
 <h4>🛠 Project Management</h4>
 - Trello, Asana, Scrum
