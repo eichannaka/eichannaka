@@ -29,6 +29,17 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+<h4>🛠 Backend Skills</h4>
+- TypeScript, Node.js, Express.js, Java, Spring Boot, PHP, SQL, MongoDB, REST API, Sequelize (ORM)
+
+<h4>🛠 Frontend Skills</h4>
+- TypeScript, React.js, HTML, CSS, Bootstrap 5, SASS, AJAX, jQuery
+
+<h4>🛠 Project Management</h4>
+- Trello, Asana, Scrum
+
+<h4>🛠 Tools</h4>
+- Git, GitLab, Firebase, Docker, Plesk, Swagger
 
 <hr>
 
@@ -36,18 +47,10 @@
 
 <p align="center">
 
-
-
 <a href="https://www.linkedin.com/in/alannaka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alan%20Nakagawa-blue?style=flat-square&logo=linkedin"></a>
-
 
 <a href="mailto:alannkgw@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-alannkgw@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
-
-
-
-
 <hr>
-
