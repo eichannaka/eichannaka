@@ -17,7 +17,7 @@
 <img align="left" alt="Express.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Sequelize" width="50px" src="https://raw.githubusercontent.com/github/explore/805cc46f4c9b91e5f6fa3519f9885ae436b140f6/topics/sequelize/sequelize.png" />
+<img align="left" alt="Sequelize" width="50px" src="https://raw.githubusercontent.com/github/explore/805cc46f4c9b91e5f6fa3519f9885ae436b140f6/topics/ORM/ORM.png" />
 <img align="left" alt="Spring Boot" width="50px" src="https://raw.githubusercontent.com/github/explore/9b5153fe6019e56adbc3429efac056d2b04cced5/topics/spring/spring.png" />
 
 <br/>
