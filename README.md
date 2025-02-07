@@ -7,10 +7,10 @@
 <h3>🛠 Tech Stack</h3>
 
 <h4>💻 &nbsp; Programming Languages</h4>
-- HTML5, CSS3, JavaScript, TypeScript, Java, PHP
+- HTML5, CSS3, JavaScript, TypeScript, Java, PHP, Python
 
 <h4>💻 &nbsp; Frameworks and Libraries</h4>
-- React.js, Node.js, Express.js, Spring Boot, Sequelize (ORM), Bootstrap 5, jQuery, SASS
+- React.js, Node.js, Express.js, Spring Boot, Sequelize (ORM), Bootstrap 5, jQuery, SASS, Tailwind
 
 <h4>💻 &nbsp; Databases</h4>
 - MongoDB, MySQL, SQL
