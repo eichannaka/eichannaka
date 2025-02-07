@@ -2,7 +2,7 @@
 
 <h3>💻 About Me 💻</h3>
 - 🎓 &nbsp; Currently studying Full Stack Web Development and Programming Technique </br>
-- 🎓 &nbsp; Study a career as a systems analyst.
+- 🎓 &nbsp; I am in the final year of my Systems Analyst degree
 
 <h3>🛠 Tech Stack</h3>
 
